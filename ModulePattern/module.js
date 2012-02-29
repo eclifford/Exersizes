@@ -9,6 +9,6 @@
 		Module = root.Module = {};
 	}
 
-	
+
 
 })();
