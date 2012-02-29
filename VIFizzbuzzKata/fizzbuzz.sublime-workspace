@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"input	input - submit"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"postlist",
+				"postListView"
+			],
+			[
+				"di",
+				"displayComments"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"active",
+				"activeTabs"
+			],
+			[
+				"Post",
+				"PostListView"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"setInterval",
+				"setInterval  (function)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ericclifford/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine.js",
+			"settings":
+			{
+				"buffer_size": 66721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Player.js",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backbone.js",
+			"settings":
+			{
+				"buffer_size": 49274,
+				"line_ending": "Unix",
+				"name": "//     Backbone.js 0.9.1"
+			}
+		},
+		{
+			"contents": "describe('FizzBuzz', function() {\n  beforeEach(function() {\n\n  });\n\n  it('should return fizz for multiples of three', function() {\n    var result = fizzBuzz.getResult(3);\n    expect(result).toEqual('fizz');\n  });\n    \n  it('should return buzz for multiples of five', function() {\n    var result = fizzBuzz.getResult(5);\n    expect(result).toEqual('buzz');\n  });\n\n});",
+			"file": "PlayerSpec.js",
+			"file_size": 361,
+			"file_write_time": 1330317069000000,
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine.css",
+			"settings":
+			{
+				"buffer_size": 2120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine-html.js",
+			"settings":
+			{
+				"buffer_size": 6934,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install P",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL P",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: u	",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 535.0
+	},
+	"console":
+	{
+		"height": 164.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine.css",
+		"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/lib/jasmine-standalone-1.1.0.rc1/SpecRunner.html",
+		"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine-html.js",
+		"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/spec/FizzBuzzSpec.js",
+		"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/PlayerSpec.js",
+		"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/Player.js",
+		"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/lib/jasmine-standalone-1.1.0.rc1/src/Player.js",
+		"/Users/ericclifford/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ericclifford/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine.js",
+		"/Users/ericclifford/Projects/TestExpress/app.js",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/server.coffee",
+		"/Users/ericclifford/Projects/Spreecast/views/encylopedia",
+		"/Users/ericclifford/Projects/Spreecast/models/encylopedia.js",
+		"/Users/ericclifford/Projects/Spreecast/public/stylesheets/styles.css",
+		"/Users/ericclifford/Projects/Spreecast/public/javascripts/vendor/underscore-1.3.0",
+		"/Users/ericclifford/Projects/Spreecast/models/book.js",
+		"/Users/ericclifford/Projects/Spreecast/public/javascripts/vendor/jquery-1.7.1.js",
+		"/Users/ericclifford/Projects/Spreecast/public/javascripts/vendor/backbone-0.5.3.js",
+		"/Users/ericclifford/Projects/Spreecast/index.html",
+		"/Users/ericclifford/Projects/Spreecast/views/book.js",
+		"/Users/ericclifford/Projects/Spreecast/Gemfile",
+		"/Users/ericclifford/Projects/Spreecast/spec/javascripts/support/jasmine.yml",
+		"/Users/ericclifford/Projects/Spreecast/spec/javascripts/support/jasmine-jquery.js",
+		"/Users/ericclifford/Projects/Spreecast/spec/javascripts/helpers/SpecHelper.js",
+		"/Users/ericclifford/Projects/Spreecast/app.js",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/controllers/apiController.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/tests/unit/account.test.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/tests/unit/videoManager.test.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/models/tag.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/client/views/posts.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/models/post.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/models/user.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/client/templates/post.jade",
+		"/Users/ericclifford/Projects/Memeze/app/src/client/templates/tag.jade",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/controllers/tagsController.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/controllers/userController.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/models/userManager.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/views/posts/index.jade",
+		"/Users/ericclifford/Projects/Memeze/app/src/client/controllers/posts.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/controllers/postsController.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/lib/server/modules/managers/postManager.js",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/tests/unit/tagManager.test.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/modules/managers/postManager.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/server/modules/managers/tagManager.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/client/models/tag.coffee",
+		"/Users/ericclifford/Projects/Memeze/app/src/client/views/tags.coffee",
+		"/Users/ericclifford/Projects/Memeze/public/assets/app.js",
+		"/Users/ericclifford/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/ericclifford/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/ericclifford/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/ericclifford/Projects/HTML5Games/index.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Player",
+			"};",
+			"ignored",
+			"		",
+			"theme",
+			"require('sys')",
+			"=\"\" />' +",
+			"\"));",
+			"h1",
+			"')",
+			"'",
+			"')",
+			"\")."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ericclifford/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine.js",
+					"settings":
+					{
+						"buffer_size": 66721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								574,
+								574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Player.js",
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "backbone.js",
+					"settings":
+					{
+						"buffer_size": 49274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47643,
+								47643
+							]
+						],
+						"settings":
+						{
+							"auto_name": "//     Backbone.js 0.9.1",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "PlayerSpec.js",
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine.css",
+					"settings":
+					{
+						"buffer_size": 2120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine-html.js",
+					"settings":
+					{
+						"buffer_size": 6934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1200.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".html",
+				"lib/jasmine-standalone-1.1.0.rc1/SpecRunner.html"
+			],
+			[
+				"jasmine",
+				"lib/jasmine-standalone-1.1.0.rc1/lib/jasmine-1.1.0.rc1/jasmine.js"
+			],
+			[
+				"app.coffe",
+				"app.coffee"
+			],
+			[
+				"index.jad",
+				"views/index.jade"
+			],
+			[
+				"app.c",
+				"app.coffee"
+			],
+			[
+				"postman",
+				"app/src/server/modules/managers/postManager.coffee"
+			],
+			[
+				"",
+				"app/src/server/modules/managers/tagManager.coffee"
+			],
+			[
+				"index.html",
+				"pingpong/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ericclifford/Dev/Exersizes/VIFizzbuzzKata/fizzbuzz.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true
+}
