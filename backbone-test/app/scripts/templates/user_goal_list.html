@@ -1,0 +1,9 @@
+<% if(user_goals.length > 0) { %>
+<ul>
+  <% _.each( user_goals, function( user_goal, i ){ %>
+  <li>I want to <%= user_goal.get('goal') %></li>
+  <% }); %>
+</ul>
+<% } else { %>
+  <p>You do not yet have any goals.</p>
+<% } %>

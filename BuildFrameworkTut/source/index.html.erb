@@ -1,0 +1,43 @@
+<% content_for :head do %>
+  <title>The Middleman!</title>
+<% end%>
+
+<div class="foo"><h1 id="foo" class="foo">The Middleman is watching.</h1></div>
+
+<script type="text/javascript">
+	var foo = xObject("foo");
+
+	var el = xObject.createElement({ 
+		tagName: "div", 
+		id: "foo2", 
+		className: "css-class", 
+		children: [{
+			tagName: "div",
+			html: "<b>hello daddy</b>",
+			attributes: {
+				align: "center"
+			}
+		}]
+  });
+
+	foo.append(xObject(el));
+	foo.append("<b>HARRO EVERYBODY</b>");
+	foo.html("OVERWRITE");
+
+  //document.body.appendChild(el);
+
+	foo.click(function(e) {
+		//this.css("color", "red");
+		this.css({
+			"color": "red"
+		});
+
+    // AddClass
+		// HasClass
+		// RemoveClass
+		// ToggleClass
+
+		console.log(this.css("color"));
+	});
+
+</script>

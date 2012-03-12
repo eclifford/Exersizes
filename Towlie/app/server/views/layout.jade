@@ -1,0 +1,9 @@
+!!!
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    script(src='../app/client/lib/requirejs/requirejs-1.0.7.js', data-main="../app/client/js/config")
+    script(src='../app/client/lib/requirejs/require-load-plugin.js')
+    script(src='../app/client/js/main.js')
+  body!= body
